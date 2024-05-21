@@ -37,6 +37,7 @@ The dataset used for this project is sourced from Yahoo Finance. It includes his
 The SARIMAX model outperformed the other models in predicting stock prices, achieving the lowest RMSE. Future work could involve hyperparameter tuning and incorporating additional features beyond historical prices, such as a stock's beta, P/E ratio, dividend policy and other financial metrics, to enhance prediction accuracy. Additionally, exploring more advanced models could further improve performance.
 
 ## Acknowledgements
+- [Image](https://www.analyticsvidhya.com/blog/2021/10/machine-learning-for-stock-market-prediction-with-step-by-step-implementation/)
 - [Yahoo Finance](https://finance.yahoo.com/) for providing the data.
 - [scikit-learn](https://scikit-learn.org/)
 - [plotly](https://plotly.com/python/)
